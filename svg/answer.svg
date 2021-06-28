@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
    height="1000"
    viewBox="0 0 264.58333 264.58334"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (0.92.5+68)"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
    sodipodi:docname="answer.svg"
-   inkscape:export-filename="/home/matheus/Documents/Projects/ruby-stuff/rubycards/assets/png/answer-example.png"
+   inkscape:export-filename="/home/matheus/Documents/rubycards/a.rb.png"
    inkscape:export-xdpi="144"
-   inkscape:export-ydpi="144">
+   inkscape:export-ydpi="144"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,18 +26,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="454.32636"
-     inkscape:cy="427.1008"
+     inkscape:zoom="0.4856949"
+     inkscape:cx="689.73341"
+     inkscape:cy="685.6156"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -66,58 +66,53 @@
        y="32.41663" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9b1c16;fill-opacity:1;stroke:none;stroke-width:0.1937128"
-       x="13.039256"
-       y="109.48525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9b1c16;fill-opacity:1;stroke:none;stroke-width:0.193713"
+       x="15.477092"
+       y="121.1667"
        id="text33"><tspan
          sodipodi:role="line"
-         id="tspan1494"
-         x="13.039256"
-         y="109.48525"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.875px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">=&gt; [&quot;Ruby&quot;, &quot;\#{foo}&quot;]</tspan><tspan
+         x="15.477092"
+         y="121.1667"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan903">=&gt; nil</tspan><tspan
          sodipodi:role="line"
-         id="tspan1496"
-         x="13.039256"
-         y="129.32901"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.875px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         x="15.477092"
+         y="141.01045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal'"
+         id="tspan26" /><tspan
          sodipodi:role="line"
-         id="tspan1498"
-         x="13.039256"
-         y="149.17274">%w is an alias for creating an</tspan><tspan
+         x="15.477092"
+         y="160.8542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal'"
+         id="tspan2940">If there's more variables to</tspan><tspan
          sodipodi:role="line"
-         id="tspan1500"
-         x="13.039256"
-         y="169.01649">array of  single-quoted strings.</tspan><tspan
+         x="15.477092"
+         y="180.69795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal'"
+         id="tspan730">fill than values to match in</tspan><tspan
          sodipodi:role="line"
-         id="tspan1502"
-         x="13.039256"
-         y="188.86024">So it does not perform any code</tspan><tspan
+         x="15.477092"
+         y="200.5417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal'"
+         id="tspan732">the right side, Ruby fills them</tspan><tspan
          sodipodi:role="line"
-         id="tspan1504"
-         x="13.039256"
-         y="208.70399">interpolation and have fewer</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1506"
-         x="13.039256"
-         y="228.54774">escape sequences.</tspan></text>
+         x="15.477092"
+         y="220.38545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal'"
+         id="tspan734">with <tspan
+   style="font-style:italic"
+   id="tspan736">nil</tspan>.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#9b1c16;fill-opacity:1;stroke:none;stroke-width:0.1937128"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#9b1c16;fill-opacity:1;stroke:none;stroke-width:0.193713"
        x="24.457169"
        y="194.58731"
-       id="text33-0"><tspan
-         sodipodi:role="line"
-         id="tspan1462"></tspan></text>
+       id="text33-0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="187.08865"
        y="184.21222"
-       id="text1440"><tspan
-         sodipodi:role="line"
-         id="tspan1438"
-         x="187.08865"
-         y="193.57599"
-         style="stroke-width:0.26458332"></tspan></text>
+       id="text1440" />
   </g>
 </svg>
